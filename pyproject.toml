@@ -1,6 +1,6 @@
 [project]
 name = "python-extra-package"
-version = "0.1.0"
+version = "0.1.1"
 description = "a package containing multiple subpackages"
 authors = [
     {name = "Sangyeop Kim",email = "sangykimiv@gmail.com"}
